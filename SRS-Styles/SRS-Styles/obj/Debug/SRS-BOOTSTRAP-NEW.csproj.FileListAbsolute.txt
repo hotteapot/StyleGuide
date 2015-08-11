@@ -1,0 +1,6 @@
+C:\Users\oowolawi\documents\visual studio 2013\Projects\SRSLook\SRS-BOOTSTRAP-NEW\bin\SRS-BOOTSTRAP-NEW.dll.config
+C:\Users\oowolawi\documents\visual studio 2013\Projects\SRSLook\SRS-BOOTSTRAP-NEW\bin\SRS-BOOTSTRAP-NEW.dll
+C:\Users\oowolawi\documents\visual studio 2013\Projects\SRSLook\SRS-BOOTSTRAP-NEW\bin\SRS-BOOTSTRAP-NEW.pdb
+C:\Users\oowolawi\documents\visual studio 2013\Projects\SRSLook\SRS-BOOTSTRAP-NEW\obj\Debug\SRS-BOOTSTRAP-NEW.dll
+C:\Users\oowolawi\documents\visual studio 2013\Projects\SRSLook\SRS-BOOTSTRAP-NEW\obj\Debug\SRS-BOOTSTRAP-NEW.pdb
+C:\Users\oowolawi\documents\visual studio 2013\Projects\SRSLook\SRS-BOOTSTRAP-NEW\obj\Debug\SRS-BOOTSTRAP-NEW.csprojResolveAssemblyReference.cache
